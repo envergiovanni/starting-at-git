@@ -1,4 +1,5 @@
 ## Git Course from scratch
+Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
 
 ### Zonas de Git
 1. Directorio de trabajo
@@ -11,9 +12,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ### Git commands
 1. git status
 2. git add file
-3. git commit file
-4. git log --Ver los cambios realizados por log name
-5. git diff --Ver las diferencias
+3. git add . "Confirma todos los archivos"
+4. git commit file
+5. git log --Ver los cambios realizados por log name
+6. git diff --Ver las diferencias
+7. git reset HEAD readme.md "Sacar al archivo de la zona de preparación"
 6. git config --global user.name
 7. git config --global user.email
 8. git config --global core.editor nano

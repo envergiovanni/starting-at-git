@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 7. git config --global user.email
 8. git config --global core.editor nano
 
-Esta línea fue creada en la línea master
+## Aportes
